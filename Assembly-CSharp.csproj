@@ -53,7 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FireBall.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\Weapon.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/Users/pedro/Ambiente de Trabalho/Lusof/Desenvolvimento de Jogos Digitais I/Projeto Final/A Magical Journey/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
